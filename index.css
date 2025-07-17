@@ -1,0 +1,48 @@
+body{
+    background-image: url("image/95.gif");
+    background-size:780px;
+    width: 1000px;
+    margin: auto;
+}
+
+#tyo li.irasuto a{
+    font-size: 100px;
+    color: antiquewhite;
+    text-decoration: none;
+    background:url(image/いらすとや.jpg);
+    display: block;
+    text-indent: -999999999999px;
+}
+
+#tyo li.irasuto a:hover{
+    background:url(image/いらすとや2.jpg);
+    color: antiquewhite;
+}
+
+#tyo li.PIXABAY a{
+    font-size: 100px;
+    color: antiquewhite;
+    text-decoration: none;
+    background:url(image/PIXABAY.jpg);
+    display: block;
+    text-indent: -999999999999px;
+}
+
+#tyo li.PIXABAY a:hover{
+    background:url(image/PIXABAY2.jpg);
+    color: antiquewhite;
+}
+
+#tyo li.SYNDROME a{
+    font-size: 100px;
+    color: antiquewhite;
+    text-decoration: none;
+    background:url(image/DOVA-SYNDROME.jpg);
+    display: block;
+    text-indent: -999999999999px;
+}
+
+#tyo li.SYNDROME a:hover{
+    background:url(image/DOVA-SYNDROME2.jpg);
+    color: antiquewhite;
+}

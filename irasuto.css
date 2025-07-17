@@ -1,0 +1,15 @@
+body{
+    background-color:#f0f8ff;;;
+    background-size:780px;
+    width: 1000px;
+    margin: auto;
+}
+
+#irasuto li.home a{
+    font-size: 100px;
+    color: antiquewhite;
+    text-decoration: none;
+    background:url(image/Topに戻る.jpg);
+    display: block;
+    text-indent: -999999999999px;
+}
